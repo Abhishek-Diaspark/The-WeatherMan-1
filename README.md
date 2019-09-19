@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/abhishek-sisodiya/theweatherman/blob/master/Backend/docs/images/logo.png" alt="spring boot"></a>
+  <a><img src="https://github.com/Abhishek-Diaspark/The-WeatherMan/blob/master/Backend/WeatherAPIDotNetCore/docs/images/logo.png" alt="DotNet Core "></a>
   <br>
   The WeatherMan Application
   <br>
